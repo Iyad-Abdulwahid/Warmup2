@@ -6,3 +6,9 @@ if (iyad >= 16) {
   else {
     return false
   }
+var order
+  function discount(order);{
+    if order <= 25 + 5
+  } else {
+  
+  }
